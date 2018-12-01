@@ -4,7 +4,7 @@ A collection of real-world networks/graphs for Network Embedding
 by Chengbin HOU 2018
 
 ## Why this repository
-As a beginner who has just entered this field, it is time-consuming to find datasets from different websites. And it might be painful to transform different formats into the commonly-used formats. In this repository, we directly provide one of commonly-used formats as used in [OpenNE](https://github.com/thunlp/OpenNE) and [OpenANE](https://github.com/houchengbin/OpenANE). We hope this saves your time.
+As a beginner who has just entered this field, it is time-consuming to find datasets from different websites. And it might be painful to transform different formats in some required format. In this repository, we directly provide one of commonly-used formats as used in [OpenNE](https://github.com/thunlp/OpenNE) and [OpenANE](https://github.com/houchengbin/OpenANE). We hope this saves your time.
 
 ### One of commonly-used formats:
     *--------------- Structural Info (each row) --------------------*
@@ -17,12 +17,12 @@ As a beginner who has just entered this field, it is time-consuming to find data
 
 ## Original datasets
 Due to the storage limit in Github, we only provide well-transformed files in the format as described above.
-<br> Nevertheless, we also offer the hyper-links to the corresponding original datasets before transformation: [cora](https://github.com/thunlp/OpenNE), [citeseer](https://github.com/kimiyoung/planetoid), [pubmed](https://github.com/kimiyoung/planetoid), [dblp](https://github.com/shiruipan/TriDNR/tree/master/data), and [mit, stanford, nyu, uIllinois](https://www.sciencedirect.com/science/article/pii/S0378437111009186#s000075). 
+<br> Nevertheless, we also offer the hyper-links to the corresponding original datasets before transformation: [cora](https://github.com/thunlp/OpenNE), [citeseer](https://github.com/kimiyoung/planetoid), [pubmed](https://github.com/kimiyoung/planetoid), [dblp](https://github.com/shiruipan/TriDNR/tree/master/data), and [mit, stanford, nyu, uIllinois](https://www.sciencedirect.com/science/article/pii/S0378437111009186). 
 
-Feel free to contact me chengbin.hou10(AT)foxmail.com, if you need python script to do such transformation or any other questions.
+Contact me chengbin.hou10@foxmail.com, if you need python script for such transformation or any other questions.
 
 ## Contribution
-Please consider to contribute if you have the dataset(s) in the format as described above. We will announce your contribution in this repository.
+Please consider to contribute if you have dataset in the format as described above. We will announce your contribution in this repository.
 
 ## Useful links to network/graph datasets
 https://snap.stanford.edu/data/ <br>
