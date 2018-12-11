@@ -4,16 +4,28 @@ A collection of real-world networks/graphs for Network Embedding
 by Chengbin HOU 2018
 
 ## Why this repository
-As a beginner who has just entered this field, it is time-consuming to find datasets from different websites. And it might be painful to transform different formats in some required format. In this repository, we directly provide one of commonly-used formats as used in [OpenNE](https://github.com/thunlp/OpenNE) and [OpenANE](https://github.com/houchengbin/OpenANE). We hope this saves your time.
+As a beginner who has just entered this field, it is time-consuming to find datasets from different websites. And it might be painful to transform different formats in some required format. In this repository, we directly provide one of commonly-used formats as used in [OpenANE](https://github.com/houchengbin/OpenANE) and [OpenNE](https://github.com/thunlp/OpenNE). We hope this saves your time.
 
 ### One of commonly-used formats:
-    *--------------- Structural Info (each row) --------------------*
-    adjlist: node_id1 node_id2 node_id3 ... (neighbors of node_id1)
-    or edgelist: node_id1 node_id2 weight (weight is optional)
-    *--------------- Attribute Info (each row) ---------------------*
-    node_id1 attr1 attr2 ...
-    *--------------- Label Info (each row) -------------------------*
-    node_id1 label1 label2 ...
+```
+*--------------- Structural Info (each row) --------------------*
+adjlist: node_id1 node_id2 node_id3 ... (neighbors of node_id1)
+or edgelist: node_id1 node_id2 weight (weight is optional)
+*--------------- Attribute Info (each row) ---------------------*
+node_id1 attr1 attr2 ...
+*--------------- Label Info (each row) -------------------------*
+node_id1 label1 label2 ...
+```
+
+Please consider citing the following paper if this repository is useful for your research.
+```
+@article{hou2018abrw,
+  title={Attributed Network Embedding for Incomplete Structure Information},
+  author={Hou, Chengbin and He, Shan and Tang, Ke},
+  journal={arXiv preprint arXiv:1811.11728},
+  year={2018}
+}
+```
 
 ## Original datasets
 Due to the storage limit in Github, we only provide well-transformed files in the format as described above.
