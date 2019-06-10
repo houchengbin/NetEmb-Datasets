@@ -19,11 +19,11 @@ node_id1 label1 label2 ...
 
 Please consider citing the following paper if this repository is useful for your research.
 ```
-@article{hou2018abrw,
-  title={Attributed Network Embedding for Incomplete Structure Information},
+@article{hou2019abrw,
+  title={Attributed Network Embedding for Incomplete Attributed Networks},
   author={Hou, Chengbin and He, Shan and Tang, Ke},
-  journal={arXiv preprint arXiv:1811.11728},
-  year={2018}
+  journal={arXiv preprint arXiv:1811.11728v2},
+  year={2019}
 }
 ```
 
