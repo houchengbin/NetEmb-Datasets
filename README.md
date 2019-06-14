@@ -38,6 +38,9 @@ Please consider to contribute if you have dataset in the format as described abo
 
 ## Useful links to network/graph datasets
 https://snap.stanford.edu/data/ <br>
+http://konect.uni-koblenz.de/ <br>
+New: Stanford Biomedical Network Dataset Collection <br>
+http://snap.stanford.edu/biodata/index.html <br>
 https://linqs.soe.ucsc.edu/data <br>
 https://aminer.org/data <br>
 http://socialcomputing.asu.edu/pages/datasets <br>
@@ -45,7 +48,6 @@ http://networkrepository.com/ <br>
 http://cnets.indiana.edu/resources/data-repository/ <br>
 https://sites.google.com/site/ucinetsoftware/datasets <br>
 http://vlado.fmf.uni-lj.si/pub/networks/data/ <br>
-http://konect.uni-koblenz.de/ <br>
 http://www.sociopatterns.org/datasets/ <br>
 
 
