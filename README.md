@@ -49,6 +49,7 @@ http://cnets.indiana.edu/resources/data-repository/ <br>
 https://sites.google.com/site/ucinetsoftware/datasets <br>
 http://vlado.fmf.uni-lj.si/pub/networks/data/ <br>
 http://www.sociopatterns.org/datasets/ <br>
+http://networksciencebook.com/translations/en/resources/data.html <br>
 
 
 
