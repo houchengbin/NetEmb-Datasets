@@ -17,12 +17,22 @@ node_id1 attr1 attr2 ...
 node_id1 label1 label2 ...
 ```
 
-Please consider citing the following paper if this repository is useful for your research.
+Please consider citing the following paper(s) if this repository is useful for your research. <br>
+For [static networks](https://github.com/houchengbin/OpenANE): <br>
 ```
 @article{hou2019abrw,
   title={Attributed Network Embedding for Incomplete Attributed Networks},
   author={Hou, Chengbin and He, Shan and Tang, Ke},
   journal={arXiv preprint arXiv:1811.11728v2},
+  year={2019}
+}
+```
+For [dynamic networks](https://github.com/houchengbin/DynWalks): <br>
+```
+@article{hou2019dynwalks,
+  title={DynWalks: Global Topology and Recent Changes Awareness Dynamic Network Embedding},
+  author={Hou, Chengbin and Zhang, Han and Tang, Ke and He, Shan},
+  journal={arXiv preprint arXiv:1907.11968},
   year={2019}
 }
 ```
