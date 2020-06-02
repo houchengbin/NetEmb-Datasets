@@ -20,11 +20,14 @@ node_id1 label1 label2 ...
 Please consider citing the following paper(s) if this repository is useful for your research. <br>
 For [static networks](https://github.com/houchengbin/OpenANE): <br>
 ```
-@article{hou2019abrw,
-  title={Attributed Network Embedding for Incomplete Attributed Networks},
+@article{hou2020RoSANE,
+  title={Ro{SANE}: Robust and Scalable Attributed Network Embedding for Sparse Networks},
   author={Hou, Chengbin and He, Shan and Tang, Ke},
-  journal={arXiv preprint arXiv:1811.11728v2},
-  year={2019}
+  journal={Neurocomputing},
+  year={2020},
+  publisher={Elsevier},
+  url={https://doi.org/10.1016/j.neucom.2020.05.080},
+  doi={10.1016/j.neucom.2020.05.080},
 }
 ```
 For [dynamic networks](https://github.com/houchengbin/DynWalks): <br>
