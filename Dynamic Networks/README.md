@@ -1,40 +1,7 @@
-# About dataset
-Some dynamic (or time-evolving) networks used in https://github.com/houchengbin/DynWalks <br>
-for the paper ["DynWalks: Global Topology and Recent Changes Awareness Dynamic Network Embedding"](https://arxiv.org/abs/1907.11968) <br>
-by Chengbin Hou
+# the datasets tested in GloDyNE
 
-## Cora folder
-This toy dataset is only intended for testing whether the code works properly.
-If yes, you should quickly obtain some results without any errors.
+Please refer to https://github.com/houchengbin/GloDyNE/tree/master/data
 
-
-## Preprocessing folder
-All the ***datasets used in the paper*** can be obtained according to the following instructions:
-
-#### Download the datasets at
-
-AS733: https://snap.stanford.edu/data/as-733.html
-
-Chess: http://konect.uni-koblenz.de/networks/chess
-
-DNC: http://konect.uni-koblenz.de/networks/dnc-temporalGraph
-
-Elec: http://konect.uni-koblenz.de/networks/elec
-
-FacebookWall: http://konect.uni-koblenz.de/networks/FacebookWall
-
-HepPh: http://konect.uni-koblenz.de/networks/ca-cit-HepPh
-
-
-#### Use the corresponding 'py' file for preprocessing, so as to obtain the data exactly the same as used in the paper.
-
-Note, the minimum possible interval in Chess is 1 month, whereas the interval for other datasets is 1 day
-
-**S1_min_21 folder**: the minimum interval of each dataset for 21 snapshots
-
-**S2_max_21 folder**: the maximum possible interval for 21 snapshots
-
-**S3_long_100 folder**: the minimum interval for 100 snapshots
-
-Please see Table 1 in the paper for more details. Thanks. <br>
-https://arxiv.org/abs/1907.11968
+Or you may directly download them from:
+https://pan.baidu.com/s/1hAjLhHSNUflnQvAu0qSohw
+password: oj5a
