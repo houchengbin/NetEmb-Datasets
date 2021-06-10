@@ -32,11 +32,20 @@ For [static networks](https://github.com/houchengbin/OpenANE): <br>
 ```
 For [dynamic networks](https://github.com/houchengbin/DynWalks): <br>
 ```
-@article{hou2019dynwalks,
-  title={DynWalks: Global Topology and Recent Changes Awareness Dynamic Network Embedding},
-  author={Hou, Chengbin and Zhang, Han and Tang, Ke and He, Shan},
-  journal={arXiv preprint arXiv:1907.11968},
-  year={2019}
+@article{hou2020glodyne,
+    title={GloDyNE: Global Topology Preserving Dynamic Network Embedding},
+    author={Hou, Chengbin and Zhang, Han and He, Shan and Tang, Ke},
+    journal={IEEE Transactions on Knowledge and Data Engineering},
+    year={2020},
+    doi={10.1109/TKDE.2020.3046511}
+}
+```
+```
+@article{hou2021robust,
+  title={Robust Dynamic Network Embedding via Ensembles},
+  author={Hou, Chengbin and Fu, Guoji and Yang, Peng and He, Shan and Tang, Ke},
+  journal={arXiv preprint arXiv:2105.14557},
+  year={2021}
 }
 ```
 
@@ -50,9 +59,9 @@ Contact me chengbin.hou10@foxmail.com, if you need python script for such transf
 Please consider to contribute if you have dataset in the format as described above. We will announce your contribution in this repository.
 
 ## Useful links to network/graph datasets
+http://konect.cc/ <br>
+http://networkrepository.com/<br>
 https://snap.stanford.edu/data/ <br>
-http://konect.uni-koblenz.de/ <br>
-New: Stanford Biomedical Network Dataset Collection <br>
 http://snap.stanford.edu/biodata/index.html <br>
 https://linqs.soe.ucsc.edu/data <br>
 https://aminer.org/data <br>
